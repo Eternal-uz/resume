@@ -56,12 +56,22 @@
     employmentHistory: [
         {
             jobTitle: 'Front-End developer',
-            startDate: 'Sep 2020',
+            startDate: 'Dec 2020',
             endDate: 'Feb 2021',
             employer: 'Aurora',
             city: 'Tashkent',
             achievements: [
                 'I helped with making webpages and online tools, although we mainly worked with wordpress and elementor, I did my best to implement some codes into our projects',
+            ]
+        },
+         {
+            jobTitle: 'Growth Manager',
+            startDate: 'Jan 2018',
+            endDate: 'Feb 2021',
+            employer: 'Aurora',
+            city: 'Tashkent',
+            achievements: [
+                'I helped companies products grow by finding new ways, and creative ways to market and grow it',
             ]
         },
         {
@@ -77,8 +87,8 @@
         },
         {
             jobTitle: 'Product manager',
-            startDate: 'Nov 2019',
-            endDate: 'Dec 2019',
+            startDate: 'Aug 2019',
+            endDate: 'Jan 2020',
             employer: 'Artel',
             city: 'Tashkent',
             achievements: [
