@@ -4,7 +4,7 @@
  const resume = {
     firstName: 'Azizbek',
     lastName: 'Umaraliev',
-    jobTitle: 'Content Manager who codes',
+    jobTitle: 'Project manager who codes',
     city: 'Andijan',
     country: 'Uzbekistan',
     phone: '+998 93 245 6556',
@@ -65,7 +65,7 @@
             ]
         },
         {
-            jobTitle: 'Content Manager/Seo Expert',
+            jobTitle: 'Marketing Manager/Seo Expert',
             startDate: 'Jan 2020',
             endDate: 'Present',
             employer: 'Aurora',
