@@ -51,7 +51,7 @@
       
     ],
     languages: ['English', 'Russian', 'Uzbek', 'French', 'Turkish'],
-    professionalSummary: `Professional with a vast background in service, sales, marketing, management, and with a great personality`,
+    professionalSummary: `Professional with a vast background in service, sales, marketing, management, IT, Programming, devOpsing, and with a great personality`,
     
     employmentHistory: [
         {
