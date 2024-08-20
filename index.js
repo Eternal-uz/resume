@@ -56,8 +56,8 @@
     employmentHistory: [
         {
             jobTitle: 'Front-End developer',
-            startDate: 'Sep 2021',
-            endDate: 'Feb2022',
+            startDate: 'Sep 2020',
+            endDate: 'Feb 2021',
             employer: 'Aurora',
             city: 'Tashkent',
             achievements: [
@@ -67,7 +67,7 @@
         {
             jobTitle: 'Marketing Manager/Seo Expert',
             startDate: 'Jan 2020',
-            endDate: 'Present',
+            endDate: 'May 2020',
             employer: 'Aurora',
             city: 'Tashkent',
             achievements: [
@@ -130,7 +130,7 @@
             ]
         },
         {
-            jobTitle: 'Head Waiter',
+            jobTitle: 'Concierge',
             startDate: 'MM 2018',
             endDate: 'MM 2018',
             employer: 'Marriot',
@@ -152,9 +152,9 @@
             ]
         },
         {
-            jobTitle: 'Waiter',
-            startDate: 'MM 2017',
-            endDate: 'Aug 2016',
+            jobTitle: 'Sales Associate',
+            startDate: 'May 2016',
+            endDate: 'Aug 2017',
             employer: 'Jumierah Al Naseem',
             city: 'Dubai',
             achievements: [
